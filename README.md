@@ -14,3 +14,16 @@ Circular robot
 * Omnidirectional wheels
 * RF control
 * IMU position control
+* Wireless Charging
+
+## Timeline
+Find:
+* Motors
+* Motor drivers
+* Microcontroller
+* LiPo
+* Wireless Charger
+
+## Design:
+* Enclosure
+* Motor mounts
